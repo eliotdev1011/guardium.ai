@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="184"
+   height="49"
+   viewBox="0 0 184 49"
+   fill="none"
+   version="1.1"
+   id="svg15"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.8858696"
+     inkscape:cx="107.9644"
+     inkscape:cy="-2.9677419"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg15" />
+  <g
+     clip-path="url(#clip0_376_2149)"
+     id="g6">
+    <path
+       d="M34.6597 8.04147L17.5811 18.1712V0.248596L34.6597 8.04147Z"
+       fill="#069B96"
+       id="path1" />
+    <path
+       d="M17.5811 0.248596V18.1737L0.5 8.04147L17.5811 0.248596Z"
+       fill="#70C282"
+       id="path2" />
+    <path
+       d="M34.6695 11.2897L17.5787 21.417L17.3699 21.6753V29.8167L17.5787 30.4332H17.5811V36.4764V48.2486L34.6549 32.6044L34.6695 32.6019V11.2897Z"
+       fill="#056D69"
+       id="path3" />
+    <path
+       d="M17.5811 30.3235V21.417L0.5 11.2897L0.502428 11.2922L0.5 11.2897V32.6019L7.11149 38.6574L17.5811 48.2486V30.3235Z"
+       fill="#4DBA7A"
+       id="path4" />
+    <path
+       d="M17.5787 30.4332V21.417L0.5 11.2897L17.5787 30.4332Z"
+       fill="#7AC799"
+       id="path5" />
+    <path
+       d="M17.5786 21.417V30.4332L34.6694 11.2897L17.5786 21.417Z"
+       fill="#00A69F"
+       id="path6" />
+  </g>
+  <defs
+     id="defs15">
+    <clipPath
+       id="clip0_376_2149">
+      <rect
+         width="34.1695"
+         height="48"
+         fill="white"
+         transform="translate(0.5 0.248596)"
+         id="rect15" />
+    </clipPath>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-size:26.2406px;line-height:1.4;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#dafebe;stroke-width:0;stroke-dasharray:none;paint-order:stroke markers fill"
+     x="52.621758"
+     y="33.220005"
+     id="text15"
+     transform="scale(0.98554702,1.0146649)"><tspan
+       sodipodi:role="line"
+       id="tspan15"
+       x="52.621758"
+       y="33.220005"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.2406px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;fill-opacity:1;stroke-width:0">Guardium</tspan></text>
+</svg>
